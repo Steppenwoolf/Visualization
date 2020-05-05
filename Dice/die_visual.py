@@ -1,5 +1,5 @@
 import pygal
-from die import Die
+from Dice.die import Die
 
 # Создание кубика D6
 die = Die()
